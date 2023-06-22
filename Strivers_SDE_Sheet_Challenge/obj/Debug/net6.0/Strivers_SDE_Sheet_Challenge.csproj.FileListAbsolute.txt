@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\bin\Debug\net6.0\Strivers_SDE_Sheet_Challenge.exe
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\bin\Debug\net6.0\Strivers_SDE_Sheet_Challenge.deps.json
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\bin\Debug\net6.0\Strivers_SDE_Sheet_Challenge.runtimeconfig.json
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\bin\Debug\net6.0\Strivers_SDE_Sheet_Challenge.dll
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\bin\Debug\net6.0\Strivers_SDE_Sheet_Challenge.pdb
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.dll
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\refint\Strivers_SDE_Sheet_Challenge.dll
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.pdb
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\Strivers_SDE_Sheet_Challenge.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Rashmi24041997\Strivers_SDE_Sheet_Challenge\Strivers_SDE_Sheet_Challenge\obj\Debug\net6.0\ref\Strivers_SDE_Sheet_Challenge.dll
